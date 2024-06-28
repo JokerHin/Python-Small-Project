@@ -1,0 +1,3 @@
+Name: Sami Chong
+Age:17
+Occupation: Student
